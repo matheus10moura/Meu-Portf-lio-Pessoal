@@ -4,10 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./styles/style.css">
 </head>
 <body>
-    <haeder>
+    <haeder class="cabecalho">
+        <nav class="cabecalho__menu">
+            <a class="cabecalho__menu__link" href="index.html">Home</a>
+            <a class="cabecalho__menu__link" href="about.html">Sobre mim</a>
+        </nav>
     </haeder>
     <main class="apresentacao">
         <section class="apresentacao__conteudo">
@@ -15,14 +19,18 @@
             <p class="apresentacao__conteudo__paragrafo" >Olá! Sou Matheus Mendes, desenvolvedor Front-end com especialidade em React, HTML e CSS. Ajudo pequenos negócios e designers a colocarem em prática boas ideias. Vamos conversar?</p>
             <div class="apresentacao__links">
                 <h2 class="apresentacao__links__subtitulo">Acesse minhas redes:</h2>
-                <a class="apretasencao__links__link" href="https://www.linkedin.com/in/matheus-moura-442490223/">linkedin</a>
-                <a class="apretasencao__links__link" href="https://github.com/matheus10moura">GitHub</a>
+                <a class="apretasencao__links__link" href="https://github.com/matheus10moura">
+                    <img src="./assets/github.png" alt="Logo do GitHub">GitHub
+                </a>
+                <a class="apretasencao__links__link" href="https://www.linkedin.com/in/matheus-moura-442490223/">
+                    <img src="./assets/linkedin.png" alt="Logo do linkedin">linkedin
+                </a>
             </div>
         </section>
-        <img src="download.jpg" alt="imagem sobre front end">
+        <img src="./assets/icons8-front-end-64.png" alt="">
     </main>
-    <footer>
-
+    <footer class="rodape">
+        <p>Desenvolvido pelo Matheus Mendes.</p>
     </footer>
 </body>
 </html>
