@@ -2,6 +2,8 @@
 
 Olá! Bem-vindo ao meu projeto de portfólio.
 
+![Captura do Portfólio](assets/portfolio.png)
+
 ## Ferramentas utilizadas:
 
 - **HTML**
