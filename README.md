@@ -14,6 +14,6 @@
 
 ### Matheus Mendes
 
-### Linkedin: (https://www.linkedin.com/in/matheus-moura-442490223/)
+### Linkedin: https://www.linkedin.com/in/matheus-moura-442490223/
 
 ```
