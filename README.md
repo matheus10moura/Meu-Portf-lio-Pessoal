@@ -1,19 +1,15 @@
-```
+# Portfólio
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+Olá! Bem-vindo ao meu projeto de portfólio.
 
 ## Ferramentas utilizadas:
 
-* HTML
-
-* CSS
-
-* Flex-box
+- **HTML**
+- **CSS**
+- **Flexbox**
 
 ## Feito por:
 
-### Matheus Mendes
+**Matheus Mendes**
 
-### Linkedin: https://www.linkedin.com/in/matheus-moura-442490223/
-
-```
+[LinkedIn](https://www.linkedin.com/in/matheus-moura-442490223/)
